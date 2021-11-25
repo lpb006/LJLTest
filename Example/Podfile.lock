@@ -1,0 +1,16 @@
+PODS:
+  - LJLTest (0.1.0)
+
+DEPENDENCIES:
+  - LJLTest (from `../`)
+
+EXTERNAL SOURCES:
+  LJLTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LJLTest: e22563e520bf6b58cea4c08f36b5b5147dfa8c16
+
+PODFILE CHECKSUM: 814a5fb95a887d4de2a988f3792f6cf17925fe78
+
+COCOAPODS: 1.11.2
