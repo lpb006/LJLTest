@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LJLTest'
-  s.version          = '0.0.3'
+  s.version          = '0.0.5'
   s.summary          = 'cocoapods test'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/liujiale/LJLTest'
+  s.homepage         = 'https://github.com/lpb006/LJLTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liujiale' => '928443006@qq.com' }
