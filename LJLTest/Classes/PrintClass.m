@@ -9,6 +9,6 @@
 
 @implementation PrintClass
 +(void)printFunction{
-    NSLog(@"******这是测试******");
+    NSLog(@"******这是测试version 0.0.3******");
 }
 @end
